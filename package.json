@@ -1,0 +1,20 @@
+{
+  "name": "chatcryptic",
+  "version": "1.0.1",
+  "description": "An interactive chat interface leveraging Web3WisdomWand for conversational crypto intelligence.",
+  "main": "ChatCryptic.js",
+  "scripts": {
+    "start": "node ChatCryptic.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flylofi/chatcryptic.git"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "web3wisdomwand": "^1.0.0"
+  },
+  "author": "flylofi",
+  "license": "MIT"
+}
